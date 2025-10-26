@@ -1,0 +1,19 @@
+body {
+  font-family: Poppins, sans-serif;
+  background: #f7f3e9;
+  text-align: center;
+  padding: 2em;
+}
+input, textarea, button {
+  padding: .7em;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1em;
+}
+button {
+  background:#b23b3b;
+  color:#fff;
+  border:none;
+  cursor:pointer;
+}
+button:hover { background:#8c2f2f; }
